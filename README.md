@@ -66,15 +66,15 @@ ec2-website-deployment/
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-<img width="1906" height="927" alt="Image" src="https://github.com/user-attachments/assets/803cffda-ae57-47ba-b951-2c30f38a9b54" />
+<img width="1906" height="730" alt="Image" src="https://github.com/user-attachments/assets/de91603b-e478-448a-baad-41ef8e8ad0ea" />
 
 
 ### 👤 About Page
-<img width="1905" height="923" alt="Image" src="https://github.com/user-attachments/assets/5052e4cc-0d7f-4c6f-b45b-c2492bd727ff" />
+<img width="1905" height="620" alt="Image" src="https://github.com/user-attachments/assets/a451a82d-99a8-4990-9d0d-bba1d71c5df7" />
 
 
 ### 📬 Contact Page
-<img width="1900" height="922" alt="Image" src="https://github.com/user-attachments/assets/3214bf5b-e2c8-430a-a24c-db1d774690d7" />
+<img width="1900" height="530" alt="Image" src="https://github.com/user-attachments/assets/694f127b-ad40-4e6a-b7c6-f9788e695524" />
 
 
 ### ✅ Outcome
