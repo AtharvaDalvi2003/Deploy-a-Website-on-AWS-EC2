@@ -56,13 +56,16 @@ http://your-ec2-public-ip
 ```
 You should see your website live!
 
-📂 Project Structure
+---
+
+## 📂 Project Structure
 ```
 ec2-website-deployment/
 ├── index.html           # Homepage
 ├── style.css            # Stylesheet
 ├── README.md            # Project documentation
 ```
+---
 ## 📸 Screenshots
 
 ### 🏠 Home Page
@@ -79,13 +82,13 @@ ec2-website-deployment/
 
 ### ✅ Outcome
 A basic HTML/CSS website successfully deployed and hosted on a cloud server using Amazon EC2 and Apache (or Nginx), demonstrating foundational DevOps and cloud deployment skills.
-
+---
 ### 🔐 Security Tip
 Once your website is live:
 
 - Consider removing public SSH access if not needed
 - Restrict inbound traffic to specific IPs
 - Enable automatic updates for security patches
-
+---
 ### 📄 License
 MIT License – Open to use and modify.
